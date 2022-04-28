@@ -8,6 +8,9 @@
 </head>
 <body>
     <h1> I Made Sukmayasa</h1>
+    <a href="contact" class="ref">contact</a>
+    <a href="indek.php">home</a>
     <a href="about">about<a>
+
 </body>
 </html>

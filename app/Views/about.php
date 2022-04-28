@@ -9,5 +9,8 @@
 <body>
     <p>NIM 41930035</p>
     <a href="contact" class="ref">contact</a>
+    <a href="indek.php">home</a>
+    <a href="about">about<a>
+
 </body>
 </html>

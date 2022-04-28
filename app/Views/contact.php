@@ -8,6 +8,8 @@
 </head>
 <body>
     <p>085999958000</p>
+    <a href="contact" class="ref">contact</a>
     <a href="indek.php">home</a>
+    <a href="about">about<a>
 </body>
 </html>
