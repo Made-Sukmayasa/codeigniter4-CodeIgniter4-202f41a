@@ -1,0 +1,23 @@
+CRITICAL - 2022-04-08 06:41:24 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('made')
+#1 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('made')
+#2 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/Commands/Server/rewrite.php(43): require_once('/Users/madesukm...')
+#6 {main}
+CRITICAL - 2022-04-08 06:41:35 --> syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST)
+#0 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/Router/Router.php(175): CodeIgniter\Router\Router->autoRoute('made')
+#1 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(726): CodeIgniter\Router\Router->handle('made')
+#2 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/Commands/Server/rewrite.php(43): require_once('/Users/madesukm...')
+#6 {main}
+CRITICAL - 2022-04-08 06:57:55 --> Too few arguments to function App\Controllers\Made::halaman(), 0 passed in /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php on line 832 and exactly 2 expected
+#0 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(832): App\Controllers\Made->halaman()
+#1 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Made))
+#2 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/madesukmayasa/Downloads/codeigniter4-CodeIgniter4-202f41a/system/Commands/Server/rewrite.php(43): require_once('/Users/madesukm...')
+#5 {main}
