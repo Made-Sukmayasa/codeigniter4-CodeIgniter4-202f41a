@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>085999958000</p>
+    <a href="indek.php">home</a>
 </body>
 </html>
