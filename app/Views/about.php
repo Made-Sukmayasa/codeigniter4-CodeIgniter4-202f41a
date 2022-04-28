@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>NIM 41930035</p>
+    <a href="contact" class="ref">contact</a>
 </body>
 </html>
